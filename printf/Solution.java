@@ -5,7 +5,8 @@ import java.util.Scanner;
 /*Input Format
 
 Every line of input will contain a String followed by an integer.
-Each String will have a maximum of  alphabetic characters, and each integer will be in the inclusive range from  to .
+Each String will have a maximum of  alphabetic characters,
+and each integer will be in the inclusive range from to.
 
 Output Format
 
@@ -26,4 +27,5 @@ input has less than three digits, you must pad your output's leading digits with
             System.out.println("================================");
 
         }
+
 }
